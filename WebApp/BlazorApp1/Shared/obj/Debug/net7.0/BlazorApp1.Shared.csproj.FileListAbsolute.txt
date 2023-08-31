@@ -1,0 +1,12 @@
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\bin\Debug\net7.0\BlazorApp1.Shared.deps.json
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\bin\Debug\net7.0\BlazorApp1.Shared.dll
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\bin\Debug\net7.0\BlazorApp1.Shared.pdb
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.csproj.AssemblyReference.cache
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.AssemblyInfo.cs
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.dll
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\refint\BlazorApp1.Shared.dll
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\BlazorApp1.Shared.pdb
+D:\Documents\GitHub\Project-entrepreneur\WebApp\BlazorApp1\Shared\obj\Debug\net7.0\ref\BlazorApp1.Shared.dll
