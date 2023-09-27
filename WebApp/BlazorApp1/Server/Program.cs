@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.ResponseCompression;
 
-namespace BlazorApp1
+namespace DocLink
 {
     public class Program
     {
